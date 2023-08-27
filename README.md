@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Lit.js, Django Rest Framework**
 
-- 📫 How to reach me **jadhavtejas2703@gmail.com**
+- 📫 How to reach me **jadhavtejas0072@gmail.com**
 
 - ⚡ Fun fact **I play the guitar and sing sometimes (music on instagram)**
 
